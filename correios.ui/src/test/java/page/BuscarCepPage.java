@@ -23,6 +23,7 @@ public class BuscarCepPage {
 		metodo.validarTexto(this.localidade, localidade);
 		metodo.validarTexto(this.cep, cep);
 		metodo.fecharAba();
+		metodo.fecharNavegador();
 	
 	
 

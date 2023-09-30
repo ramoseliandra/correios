@@ -52,4 +52,8 @@ public void fecharAba() {
 	
 	
 }
+public void fecharNavegador() {
+	driver.quit();
+	
+}
 }
